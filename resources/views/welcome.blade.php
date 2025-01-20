@@ -66,7 +66,7 @@
                             </p>
                             <div class="col-md-7" style="color: #554931">
                                 <h5>Nama Kelompok:</h5>
-                                <ul class="list-group">
+<!--                                 <ul class="list-group">
                                     <li class="list-group-item member-item">
                                         <span class="member-name">Ardian Wahyu Saputra</span>
                                         <span class="member-nim">NIM: 210401011</span>
@@ -87,7 +87,7 @@
                                         <span class="member-name">Muhammad Hafizh Fadhillah</span>
                                         <span class="member-nim">NIM: 210401021</span>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                     </div>
